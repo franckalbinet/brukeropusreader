@@ -8,7 +8,7 @@ The brukeropusreader Python package enables reading the binary OPUS files genera
 ```pip install brukeropusreader```
 
 ### Install with conda or mamba
-```conda install -c "spectrocat/label/dev" brukeropusreader```
+```conda install -c "spectrocat/label/dev" brukeropusreader"```
 
 ## Usage
 `read_file` parses OPUS file and returns `OpusData` object:
